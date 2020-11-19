@@ -1,0 +1,11 @@
+.app__name{
+    display: grid;
+    place-items: center;
+    /* height: 10vh; */
+    padding-bottom: 100%;
+    padding-top: 10%;
+}
+
+.button{
+    padding: 5%;
+}
